@@ -1,6 +1,10 @@
-# Cars4U: Used Car Market Insights and Pricing Prediction
+## Cars4U: Used Car Market Insights and Pricing Prediction
 
-## Context
+Nov 20 2022 | Hugo Hiraoka | hhiraokawatts@gmail.com
+
+A linear regression model to predict prices of used cars. This is a supervised learning model.
+
+### Context
 
 There is a huge demand for used cars in the Indian Market today. As sales of new cars have slowed down in the recent past, the pre-owned car market has continued to grow over the past years and is larger than the new car market now. Cars4U is a budding tech start-up that aims to find footholes in this market.
 
@@ -10,16 +14,16 @@ We will come up with a pricing model that can effectively predict the price of u
 
 ![](https://i.imgur.com/tS9IExz.jpg)
 
-## Objectives
+### Objectives
 
 We will explore and visualize the dataset, build a pricing model using Linear Regression that can effectively predict the price of used cars and we will generate a set of insights and recommendations that can help the business in devising profitable strategies. For example, if the business knows the market price, it will never sell anything below it.
 
-## Key Questions
+### Key Questions
 
 - What are the factors that influence the selling price of a used car?
 - What is a good predictive model that outputs the selling price of a used car?
 
-## **Data Dictionary**
+### **Data Dictionary**
 
 The data contains the different attributes of used cars sold in different locations. The detailed data dictionary is given below.
 
