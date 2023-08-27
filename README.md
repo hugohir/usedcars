@@ -1,4 +1,4 @@
-# Used Car Market Insights and Pricing Prediction
+# Cars4U: Used Car Market Insights and Pricing Prediction
 
 ## Context
 
@@ -8,7 +8,7 @@ In 2018-19, while new car sales were recorded at 3.6 million units, around 4 mil
 
 We will come up with a pricing model that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing. For example, if the business knows the market price, it will never sell anything below it.
 
-![](https://i.imgur.com/a1om4um.jpg)
+![](https://i.imgur.com/tS9IExz.jpg)
 
 ## Objectives
 
