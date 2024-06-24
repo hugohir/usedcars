@@ -1,6 +1,6 @@
 ## Cars4U: Used Car Market Insights and Pricing Prediction
 
-Nov 20 2022 | Hugo Hiraoka | hhiraokawatts@gmail.com
+Nov 20 2022 | Hugo Hiraoka | hhiraoka.w@gmail.com
 
 A linear regression model to predict prices of used cars. This is a supervised learning model.
 
